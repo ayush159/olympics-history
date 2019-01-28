@@ -1,7 +1,4 @@
 # 120 Years of Olympics History
-**Authors**: Ayush Sethi (as11500), Vaibhav Lodha (vl1015), Vishwali Mhasawade (vvm248)
-
-Group 9 
 
 ## About
 Keeping in sight the history of Olympics, we are trying to tell the history of our world in the last century. We have
